@@ -1,24 +1,6 @@
 {
   "updates": [
     {
-      "version": "1.8.2",
-      "date": "Februrary 2025",
-      "description": "no",
-      "features": [
-        "ygs",
-        "hrot",
-        "eork",
-        "hotr",
-        "weoj",
-        "horth",
-        "weir"
-      ],
-      "improvements": [
-        "fixed this",
-        "did that"
-      ]
-    },
-    {
       "version": "1.4.5",
       "date": "January 2025",
       "description": "jsut a testing desc",
